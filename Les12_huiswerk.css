@@ -1,0 +1,76 @@
+header {
+  width: 100%;
+  background-color: #33CCFF;
+}
+
+footer {
+  width: 100%;
+  background-color: #0099CC;
+}
+
+table {
+  width: 100%;
+}
+
+#appel {
+  background-color: red;
+}
+
+#peer {
+  background-color: #99CC66;
+}
+
+#banaan {
+  background-color: yellow;
+}
+
+#pompoen {
+  background-color: orange;
+}
+
+#vijg {
+  background-color: purple;
+}
+
+#blauwebes {
+  background-color: blue;
+}
+
+#aardbei {
+  background-color: fuchsia;
+}
+
+#kiwi {
+  background-color: brown;
+}
+
+#rodeappel {
+  background-color: pink;
+}
+
+#groenepeer {
+  background-color: #00CC99;
+}
+
+#gelebanaan {
+  background-color: #FFFFCC;
+}
+
+#oranjepompoen {
+  background-color: #FFCC99;
+}
+
+#lilavijg {
+  background-color: #CC00FF;
+}
+
+#blauwebes2 {
+  background-color: #6699FF;
+}
+
+#fuchsiaaardbei {
+  background-color: #CC6699;
+}
+#bruinekiwi {
+  background-color: #996600;
+}
